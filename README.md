@@ -4,7 +4,7 @@ This is a simple API built with TypeScript and Express.js for the HNG12i Stage Z
 
 ## API Endpoint
 
-- **URL:** `https://hng12i-stage0.up.railway.app/`
+- **URL:** `https://tg-hng12i-stage0.onrender.com/`
 - **Method:** `GET`
 - **Response:**
   ```json
@@ -25,7 +25,7 @@ This is a simple API built with TypeScript and Express.js for the HNG12i Stage Z
 
 ## Deployment
 
-The API is deployed on Railway. You can access it at: https://hng12i-stage0.up.railway.app/
+The API is deployed on render. You can access it at: https://tg-hng12i-stage0.onrender.com/
 
 ## Backlink
 
