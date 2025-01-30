@@ -17,7 +17,7 @@ This is a simple API built with TypeScript and Express.js for the HNG12i Stage Z
 
 ## Setup Instructions
 
-- **Clone the repository:** `git clone https://github.com/yourusername/your-repo.git`
+- **Clone the repository:** `git clone https://github.com/actokuyt/HNG12i-stage0`
 
 - **Install dependencies:** `npm install`
 
